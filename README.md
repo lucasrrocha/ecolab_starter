@@ -4,7 +4,7 @@
 
 ## Projeto Realizado pela Rocketseat :rocket:
 
-Devido a semana do meio ambiente, eles uniram o útil ao agradável, e criaram um layout em que é cadastrado pontos de coleta de itens recicláveis, e que é possível também realizar a busca de pontos de coleta já cadastrado.
+Devido a semana do meio ambiente, eles uniram o útil ao agradável, e criaram um layout em que é cadastrado pontos de coleta de itens recicláveis, e que é possível também realizar a busca de pontos de coleta já cadastrados.
 
 **O site ainda está em desenvolvimento, mas podem ir dando uma olhada de como está ficando.**
 
