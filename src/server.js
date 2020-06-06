@@ -39,7 +39,7 @@ server.post('/savepoint', (request, response) => {
 
   //Inserir os dados do formulário no Banco de dados
   const query = `
-  INSERT INT places (
+  INSERT INTO places (
     image,
     name,
     address,
@@ -81,7 +81,7 @@ server.get('/search-results', (request, response) => {
     });
   }
 
-  //Consultar dados do banco de dados
+  // Consultar dados do banco de dados
   db.all(`SELECT * FROM places WHERE city LIKE '%${search}%'`, function(
     err,
     rows
