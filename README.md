@@ -1,11 +1,52 @@
-# Projeto Next Level Week :heart:
+<div align="center" style="margin: 30px 0px">
+  <img src="https://raw.githubusercontent.com/lucasrrocha/nlw/4f305efc0f77e0b80158c50c2710015624bada43/assets/logo.svg">
+</div>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/eJiLiqUYkZ8a7YT0sA/giphy.gif">
+</div>
+
+## 📝 Sobre
+
+O projeto **Ecolab**, é um marketplace de pontos de coleta de resíduos reciclaveis, criado pela **Rocketseat** na Next Level Week, com o intuito de alavancar o conhecimento dos participantes.
 
 ---
 
-## Projeto Realizado pela Rocketseat :rocket:
+## 🚀 Tecnologias utilizadas
 
-Devido a semana do meio ambiente, eles uniram o útil ao agradável, e criaram um layout em que é cadastrado pontos de coleta de itens recicláveis, e que é possível também realizar a busca de pontos de coleta já cadastrados.
+ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-**O site ainda está em desenvolvimento, mas podem ir dando uma olhada de como está ficando.**
+- HTML
+- CSS
+- Javascript
+- Nunjucks
+- NodeJS
+- Sqlite3
+- Express
 
-![Logo Ecolab](https://raw.githubusercontent.com/lucasrrocha/nlw/4f305efc0f77e0b80158c50c2710015624bada43/assets/logo.svg)
+---
+
+## 🗂 Como clonar o projeto
+
+```bash
+
+#Clonar o repositório
+$ git clone https://github.com/lucasrrocha/ecolab_starter.git
+
+#Entrar no diretório
+$ cd escolab_starter
+
+#Intalar as dependências
+$ npm install
+
+#Iniciar o projeto
+$ npm start
+
+
+
+```
+
+---
+
+Feito com :heart: by: **Lucas Rocha**
